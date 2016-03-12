@@ -1,18 +1,47 @@
-# Pype - Personal Yii Page Engine
+~~~
+/*
+* This file is part of
+*  _                 _ _
+* | |__  _   _  __ _(_) |_ ___  _ __
+* | '_ \| | | |/ _` | | __/ _ \| '__|
+* | |_) | |_| | (_| | | || (_) | |
+* |_.__/ \__,_|\__, |_|\__\___/|_|
+*              |___/
+*                 issue tracker
+*
+*	Copyright (c) 2010 - 2016 Jacob Moen
+*	Licensed under the MIT license
+*/
+~~~
+A [Yii](http://www.yiiframework.com/) powered issue tracker
 
-This is a minimal wrapper application for the [yii2-mdpages-module](https://github.com/jacmoe/yii2-mdpages-module) which serves static markdown documents from a separate Git repository.
+[http://jacmoe.github.io/bugitor/](http://jacmoe.github.io/bugitor/)  
 
-The goal is to create a small, fast and versatile flat-file engine that is suitable for serving blogs, wikis and personal websites.
+[https://github.com/jacmoe/bugitor](https://github.com/jacmoe/bugitor)
 
-The application should be easy to upgrade and manage.
+Copyright (C) 2009 - 2015 Bugitor Team
 
-[Deployer](http://deployer.org/) is used for deployment, and [Flywheel](https://github.com/jamesmoss/flywheel) is used for temporary storage of processed documents.
+Permission is hereby granted, free of charge, to any person
+obtaining a copy of this software and associated documentation files
+(the "Software"), to deal in the Software without restriction,
+including without limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of the Software,
+and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Software.
 
-And, last - but not least: Pype is powered by the [Yii Framework](http://www.yiiframework.com/)
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT
+OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE
+OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-------------------------------------------
 
-This project is still in the early phase.
+# About
+Bugitor is an issue tracker written in PHP using the Yii Framework.
 
-Check out the project at Github: [Pype](https://github.com/jacmoe/pype)
-
+# ACHTUNG
+Bugitor is currently undergoing *MAJOR* refactoring, including upgrade from Yii 1.x to Yii 2.x
