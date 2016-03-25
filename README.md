@@ -15,11 +15,9 @@
 ~~~
 A [Yii](http://www.yiiframework.com/) powered issue tracker
 
-[http://jacmoe.github.io/bugitor/](http://jacmoe.github.io/bugitor/)  
+[https://bugitor.jacmoe.dk/](https://bugitor.jacmoe.dk/)  
 
 [https://github.com/jacmoe/bugitor](https://github.com/jacmoe/bugitor)
-
-Copyright (C) 2009 - 2015 Bugitor Team
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation files
